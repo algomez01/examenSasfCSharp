@@ -1,0 +1,7 @@
+D:\Repositorios\examenSasfCSharp\examenSasfCSharp\bin\Debug\examenSasfCSharp.exe.config
+D:\Repositorios\examenSasfCSharp\examenSasfCSharp\bin\Debug\examenSasfCSharp.exe
+D:\Repositorios\examenSasfCSharp\examenSasfCSharp\bin\Debug\examenSasfCSharp.pdb
+D:\Repositorios\examenSasfCSharp\examenSasfCSharp\obj\Debug\examenSasfCSharp.csproj.AssemblyReference.cache
+D:\Repositorios\examenSasfCSharp\examenSasfCSharp\obj\Debug\examenSasfCSharp.csproj.CoreCompileInputs.cache
+D:\Repositorios\examenSasfCSharp\examenSasfCSharp\obj\Debug\examenSasfCSharp.exe
+D:\Repositorios\examenSasfCSharp\examenSasfCSharp\obj\Debug\examenSasfCSharp.pdb
